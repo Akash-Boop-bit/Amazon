@@ -3,7 +3,7 @@
     border: border-box;
 }
 .navbar {
-    height: 60px;
+    height: 6vw;
     background-color: #0F1111;
     color: white;
     display: flex;
@@ -18,8 +18,8 @@
 }
 .nav-amaz {
     background-image: url("images/amazon_logo2.png");
-    height: 90%;
-    width: 15%;
+    height: 6vw;
+    width: 15vw;
     background-size: cover;
 }
 .nav-ind {
