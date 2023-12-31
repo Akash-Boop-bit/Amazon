@@ -93,3 +93,27 @@
     padding-left: 1vw;
     padding-right: 1vw;
 }
+.navbar2 {
+    display: flex;
+    background-color: #375959;
+    height: 4vw;
+    align-items: center;
+    color: white;
+}
+.nav-all {
+    display: flex;
+    align-items: center;
+    margin-left: 1vw;
+    padding: 0.5vw;
+    font-size: 1.5vw;
+}
+.nav-rest {
+    display: flex;
+    align-items: center;
+}
+.nav-rest p{
+    color: white;
+    font-size: 1.5vw;
+    padding: 0.5vw;
+    margin-left: 1vw;
+}
