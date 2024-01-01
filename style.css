@@ -49,9 +49,11 @@
     height: 2.7vw;
     border: 0px solid transparent;
     width: 30vw;
+    font-size: 1.5vw;
 }
 .nav-select {
     height: 3vw;
+    font-size: 1.4vw;
     border-top-left-radius: 2px;
     border-bottom-left-radius: 2px;
 }
