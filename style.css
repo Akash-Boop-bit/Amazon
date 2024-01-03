@@ -119,3 +119,216 @@
     padding: 0.5vw;
     margin-left: 1vw;
 }
+.main {
+    background-color: antiquewhite;
+    width: 97%;
+    margin: auto;
+}
+.main-back {
+    background-image: url("images/mainbackground.jpg");
+    background-size: cover;
+    height: 35vw;
+    display: flex;
+    justify-content: center;
+}
+.main-para {
+    height: 2.5vw;
+    width: 96%;
+    background-color: white;
+    font-size: 1.4vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30%;
+}
+.main-cont {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.box1 {
+    background-color: white;
+    width: 22%;
+    height: 30vw;
+    margin-top: 2vw;
+    position: relative;
+}
+.box2 {
+    background-color: white;
+    width: 22%;
+    height: 30vw;
+    margin-top: 2vw;
+    position: relative;
+}
+.box3 {
+    background-color: white;
+    width: 22%;
+    height: 30vw;
+    margin-top: 2vw;
+    position: relative;
+}
+.box4 {
+    background-color: white;
+    width: 22%;
+    height: 30vw;
+    margin-top: 2vw;
+    position: relative;
+}
+.gaming1 {
+    display: flex;
+    margin-top: 2vw;
+}
+.cont-1 {
+    background-image: url("images/main_boxes/headset.jpg");
+    background-size: cover;
+    width: 48%;
+    height: 7vw;
+}
+.cont-2 {
+    background-image: url("images/main_boxes/keyboard.jpg");
+    background-size: cover;
+    width: 48%;
+    height: 7vw;
+}
+.gaming2 {
+    display: flex;
+    margin-top: 4vw;
+}
+.cont-3 {
+    background-image: url("images/main_boxes/mouse.jpg");
+    background-size: cover;
+    width: 48%;
+    height: 7vw;
+}
+.cont-4 {
+    background-image: url("images/main_boxes/chair.jpg");
+    background-size: cover;
+    width: 48%;
+    height: 7vw;
+}
+.seemore {
+    position: absolute;
+    bottom: 1.5vw;
+    font-size: 1vw;
+    margin-left: 1vw;
+}
+.gaming-pc {
+    width: 90%;
+    background-position: center;
+    background-image: url("images/main_boxes/gaming_pc.jpg");
+    background-size: cover;
+    height: 21vw;
+    margin-left: auto;
+    margin-top: 1vw;
+    margin-right: auto;
+}
+.tedy {
+    width: 90%;
+    background-position: center;
+    background-image: url("images/main_boxes/teddy_bear.jpg");
+    background-size: cover;
+    height: 21vw;
+    margin-left: auto;
+    margin-top: 1vw;
+    margin-right: auto;
+}
+.cont-5 {
+    background-image: url("images/main_boxes/dining.jpg");
+    background-size: cover;
+    width: 42%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 7vw;
+}
+.cont-6 {
+    background-image: url("images/main_boxes/home.jpg");
+    background-size: cover;
+    margin-right: auto;
+    width: 42%;
+    height: 7vw;
+}
+.cont-7 {
+    background-image: url("images/main_boxes/kitchen.jpg");
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    width: 42%;
+    height: 7vw;
+}
+.cont-8 {
+    background-image: url("images/main_boxes/health.jpg");
+    background-size: cover;
+    margin-right: auto;
+    width: 42%;
+    height: 7vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.foot {
+    background-color: antiquewhite;
+    margin-top: 2vw;
+}
+.back {
+    background-color: #395c80;
+    height: 3vw;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.back:hover {
+    background-color: #446e98;
+}
+.back a{
+    text-decoration: none;
+    color: white;
+    width: 100%;
+    font-size: 1.5vw;
+}
+.credits {
+    display: flex;
+    justify-content: space-evenly;
+    height: 30vw;
+    background-color: #2e4864;
+    color: white;
+    font-size: 1.4vw;
+}
+.foot-div1 {
+    margin-top: 5vw;
+}
+.foot-div2 {
+    margin-top: 5vw;
+}
+.foot-div3 {
+    margin-top: 5vw;
+}
+.foot-div4 {
+    margin-top: 5vw;
+}
+.foot-amaz {
+    margin-top: 0.1vw;
+    background-color: #2e4864;
+    height: 8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bye {
+    display: flex;
+    justify-content: right;
+    font-size: 1vw;
+}
