@@ -125,7 +125,7 @@
     margin: auto;
 }
 .main-back {
-    background-image: url("images/mainbackground.jpg");
+    background-image: url("images/background3.jpg");
     background-size: cover;
     height: 35vw;
     display: flex;
@@ -141,6 +141,9 @@
     align-items: center;
     margin-top: 30%;
 }
+
+/* main cont 1 */
+
 .main-cont {
     display: flex;
     justify-content: space-evenly;
@@ -264,6 +267,208 @@
 }
 
 
+/* main cont 2 */
+
+
+.box11 {
+    background-color: white;
+    width: 22%;
+    height: 30vw;
+    margin-top: 2vw;
+    position: relative;
+}
+.box12 {
+    background-color: white;
+    width: 22%;
+    height: 30vw;
+    margin-top: 2vw;
+    position: relative;
+}
+.box13 {
+    background-color: white;
+    width: 22%;
+    height: 30vw;
+    margin-top: 2vw;
+    position: relative;
+}
+.box14 {
+    background-color: white;
+    width: 22%;
+    height: 30vw;
+    margin-top: 2vw;
+    position: relative;
+}
+.gaming11 {
+    display: flex;
+    margin-top: 2vw;
+}
+.cont-11 {
+    background-image: url("images/main_boxes2/jeans.jpg");
+    background-size: cover;
+    width: 42%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 7vw;
+}
+.cont-12 {
+    background-image: url("images/main_boxes2/tops.jpg");
+    background-size: cover;
+    margin-right: auto;
+    width: 42%;
+    height: 7vw;
+}
+.gaming12 {
+    display: flex;
+    margin-top: 4vw;
+}
+.cont-13 {
+    background-image: url("images/main_boxes2/dresses1.jpg");
+    background-size: cover;
+    width: 42%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 7vw;
+}
+.cont-14 {
+    background-image: url("images/main_boxes2/shoes.jpg");
+    background-size: cover;
+    margin-right: auto;
+    width: 42%;
+    height: 7vw;
+}
+.cont-15 {
+    background-image: url("images/main_boxes2/dresses2.jpg");
+    background-size: cover;
+    width: 42%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 7vw;
+}
+.cont-16 {
+    background-image: url("images/main_boxes2/knits.jpg");
+    background-size: cover;
+    margin-right: auto;
+    width: 42%;
+    height: 7vw;
+}
+.cont-17 {
+    background-image: url("images/main_boxes2/jackets.jpg");
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    width: 42%;
+    height: 7vw;
+}
+.cont-18 {
+    background-image: url("images/main_boxes2/jewelry.jpg");
+    background-size: cover;
+    margin-right: auto;
+    width: 42%;
+    height: 7vw;
+}
+
+.offdeals {
+    width: 90%;
+    background-position: center;
+    background-image: url("images/main_boxes2/box1.jpg");
+    background-size: cover;
+    height: 18vw;
+    margin-left: auto;
+    margin-top: 1vw;
+    margin-right: auto;
+}
+.off-text {
+    position: relative;
+    font-size: 0.8vw;
+}
+.amaz_box {
+    width: 90%;
+    background-position: center;
+    background-image: url("images/main_boxes2/amaz_box.jpg");
+    background-size: cover;
+    height: 21vw;
+    margin-left: auto;
+    margin-top: 1vw;
+    margin-right: auto;
+}
+
+/* main cont 3 */
+
+.main-cont1 {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: 18vw;
+    margin-top: 2vw;
+}
+.main1-para {
+    font-size: 1.6vw;
+    margin-left: 1vw;
+}
+
+.wide-box {
+    margin-top: 2vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.wide-box img {
+    height: 12vw;
+}
+
+.box21 {
+    background-color: white;
+    width: 22%;
+    height: 30vw;
+    margin-top: 2vw;
+    position: relative;
+}
+
+.personal-comp {
+    width: 90%;
+    background-position: center;
+    background-image: url("images/main_boxes3/personalcomp.jpg");
+    background-size: cover;
+    height: 21vw;
+    margin-left: auto;
+    margin-top: 1vw;
+    margin-right: auto;
+}
+
+.box4-chair {
+    width: 90%;
+    background-position: center;
+    background-image: url("images/main_boxes3/chair.jpg");
+    background-size: cover;
+    height: 21vw;
+    margin-left: auto;
+    margin-top: 1vw;
+    margin-right: auto;
+}
+
+.box4-laptop {
+    width: 90%;
+    background-position: center;
+    background-image: url("images/main_boxes3/laptop.jpg");
+    background-size: cover;
+    height: 21vw;
+    margin-left: auto;
+    margin-top: 1vw;
+    margin-right: auto;
+}
+
+.box4-brush {
+    width: 90%;
+    background-position: center;
+    background-image: url("images/main_boxes3/brush.jpg");
+    background-size: cover;
+    height: 21vw;
+    margin-left: auto;
+    margin-top: 1vw;
+    margin-right: auto;
+}
 
 
 
@@ -277,6 +482,9 @@
 
 
 
+
+
+/* bottom of website  */
 
 .foot {
     background-color: antiquewhite;
@@ -332,3 +540,6 @@
     justify-content: right;
     font-size: 1vw;
 }
+
+/* end
+ Made by Akash Malik  */
